@@ -52,7 +52,7 @@ Then open: [http://localhost:3000/pomodoro](http://localhost:3000/pomodoro)
 ## 📄 License
 
 This project is licensed under the **CC BY-NC 4.0 License**.  
-See the [LICENSE](./LICENSE) file for details.
+See the [LICENSE](./LICENSE.txt) file for details.
 
 ## 👤 Author
 
